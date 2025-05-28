@@ -9,10 +9,9 @@ The **Women Safety App** is a real-time safety application designed to enhance s
 - **🛑 Danger Zone Alerts** – Notifies users if they enter crime-prone areas.
 - **📡 Geofence Monitoring** – Sets up safety boundaries with real-time alerts.
 - **📞 Voice-Activated Emergency Call** – Hands-free SOS trigger for quick response.
-- **🤖 AI-Powered Health Advisor** – Provides symptom analysis, relaxation tips and support.
 - **🛤 Safer Route Suggestions** – Uses crime data to suggest secure travel routes.
 - **👥 Multiple Emergency Contacts** – Allows users to add and manage emergency contacts.
-- **📊 AI-based Safety Score & Report** – Users can upload an image, check safety levels, and receive a safety score.
+- **📊 AI-based Safety Score** – Users can upload an image, check safety levels, and receive a safety score.
 - **🗺️ Heatmap & Safety Report** – Generates a heatmap based on safety scores and provides recommendations upon clicking a marker.
 - **🧠 Smart Safety Advisor** – Offers safety tips for traveling based on crime rates in different areas.
 - **⚠️ Crime Hotspot Detection** – Highlights high-crime areas for better situational awareness.
@@ -86,15 +85,10 @@ TWILIO_TWIML_URL=your_twiml_url
    - The app sends an emergency SMS and call to registered contacts with the user's live location.
    - The backend system ensures timely delivery of messages using the Twilio API.
 
-4. **AI-based Safety Score & Report**
+4. **AI-based Safety Score**
    - Users upload an image to assess the safety of their surroundings.
    - The app generates a **safety score** based on AI analysis.
    - A heatmap is created using aggregated safety scores.
-   - Clicking on a heatmap marker provides a detailed report with issues and recommendations.
-
-5. **Smart Safety Advisor**
-   - Provides safety tips for traveling from one place to another based on crime rates.
-   - Helps users make informed decisions about their routes.
 
 6. **Crime Hotspot Detection**
    - Uses real-time crime data to highlight **high-risk areas**.
@@ -115,28 +109,28 @@ TWILIO_TWIML_URL=your_twiml_url
 ## Screenshots 📸
 <table>
   <tr>
-    <td><img src="screenshots/1.jpg" width="250"></td>
-    <td><img src="screenshots/2.jpg" width="250"></td>
-    <td><img src="screenshots/3.jpg" width="250"></td>
-    <td><img src="screenshots/4.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/1.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/2.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/3.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/4.jpg" width="250"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/5.jpg" width="250"></td>
-    <td><img src="screenshots/6.jpg" width="250"></td>
-    <td><img src="screenshots/7.jpg" width="250"></td>
-    <td><img src="screenshots/8.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/5.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/6.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/7.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/8.jpg" width="250"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/9.jpg" width="250"></td>
-    <td><img src="screenshots/10.jpg" width="250"></td>
-    <td><img src="screenshots/11.jpg" width="250"></td>
-    <td><img src="screenshots/12.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/9.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/10.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/11.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/12.jpg" width="250"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/13.jpg" width="250"></td>
-    <td><img src="screenshots/14.jpg" width="250"></td>
-    <td><img src="screenshots/15.jpg" width="250"></td>
-    <td><img src="screenshots/16.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/13.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/14.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/15.jpg" width="250"></td>
+    <td><img src="Women_safety_app/screenshots/16.jpg" width="250"></td>
   </tr>
 </table>
 
