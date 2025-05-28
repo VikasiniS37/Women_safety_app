@@ -12,8 +12,6 @@ The **Women Safety App** is a real-time safety application designed to enhance s
 - **🛤 Safer Route Suggestions** – Uses crime data to suggest secure travel routes.
 - **👥 Multiple Emergency Contacts** – Allows users to add and manage emergency contacts.
 - **📊 AI-based Safety Score** – Users can upload an image, check safety levels, and receive a safety score.
-- **🗺️ Heatmap & Safety Report** – Generates a heatmap based on safety scores and provides recommendations upon clicking a marker.
-- **🧠 Smart Safety Advisor** – Offers safety tips for traveling based on crime rates in different areas.
 - **⚠️ Crime Hotspot Detection** – Highlights high-crime areas for better situational awareness.
 - **🚧 Geofencing & Boundary Alerts** – Allows users to set up alerts when they cross predefined safe zones.
 
