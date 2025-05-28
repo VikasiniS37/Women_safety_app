@@ -9,10 +9,8 @@ The **Women Safety App** is a real-time safety application designed to enhance s
 - **🛑 Danger Zone Alerts** – Notifies users if they enter crime-prone areas.
 - **📡 Geofence Monitoring** – Sets up safety boundaries with real-time alerts.
 - **📞 Voice-Activated Emergency Call** – Hands-free SOS trigger for quick response.
-- **🤖 AI-Powered Health Advisor** – Provides symptom analysis, relaxation tips and support.
 - **🛤 Safer Route Suggestions** – Uses crime data to suggest secure travel routes.
 - **👥 Multiple Emergency Contacts** – Allows users to add and manage emergency contacts.
-- **📊 AI-based Safety Score & Report** – Users can upload an image, check safety levels, and receive a safety score.
 - **🗺️ Heatmap & Safety Report** – Generates a heatmap based on safety scores and provides recommendations upon clicking a marker.
 - **🧠 Smart Safety Advisor** – Offers safety tips for traveling based on crime rates in different areas.
 - **⚠️ Crime Hotspot Detection** – Highlights high-crime areas for better situational awareness.
@@ -86,29 +84,19 @@ TWILIO_TWIML_URL=your_twiml_url
    - The app sends an emergency SMS and call to registered contacts with the user's live location.
    - The backend system ensures timely delivery of messages using the Twilio API.
 
-4. **AI-based Safety Score & Report**
-   - Users upload an image to assess the safety of their surroundings.
-   - The app generates a **safety score** based on AI analysis.
-   - A heatmap is created using aggregated safety scores.
-   - Clicking on a heatmap marker provides a detailed report with issues and recommendations.
-
-5. **Smart Safety Advisor**
-   - Provides safety tips for traveling from one place to another based on crime rates.
-   - Helps users make informed decisions about their routes.
-
-6. **Crime Hotspot Detection**
+4. **Crime Hotspot Detection**
    - Uses real-time crime data to highlight **high-risk areas**.
    - Users receive alerts if they enter a crime hotspot.
 
-7. **Geofence Monitoring & Boundary Alerts**
+5. **Geofence Monitoring & Boundary Alerts**
    - Users can define custom geofence areas (such as home, school, or workplace).
    - If they move outside the safe zone unexpectedly, an alert is triggered.
 
-8. **Safer Route Suggestions**
+6. **Safer Route Suggestions**
    - The app calculates a secure path by analyzing real-time crime data.
    - It provides route recommendations to avoid high-risk zones.
 
-9.  **Multiple Emergency Contacts**
+7.  **Multiple Emergency Contacts**
    - Users can add multiple contacts to receive alerts during emergencies.
    - Contacts can be selected from the phonebook or entered manually.
 
