@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211131153827",
+    "project_id": "naval-safety",
+    "storage_bucket": "naval-safety.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211131153827:android:74c42605dcaf5e26a7ae16",
+        "android_client_info": {
+          "package_name": "com.example.saro_sodu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo7egn_3d6gZuWKMdd49S04_2JfmObcok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
