@@ -9,7 +9,7 @@ The **Women Safety App** is a real-time safety application designed to enhance s
 - **🛑 Danger Zone Alerts** – Notifies users if they enter crime-prone areas.
 - **📡 Geofence Monitoring** – Sets up safety boundaries with real-time alerts.
 - **📞 Voice-Activated Emergency Call** – Hands-free SOS trigger for quick response.
-- **🛤 Safer Route Suggestions** – Uses crime data to suggest secure travel routes.
+- **🛤 Smart Safety Tips** – Gives simple safety advice based on how and where you travel.
 - **👥 Multiple Emergency Contacts** – Allows users to add and manage emergency contacts.
 - **📊 AI-based Safety Score** – Users can upload an image, check safety levels, and receive a safety score.
 - **⚠️ Crime Hotspot Detection** – Highlights high-crime areas for better situational awareness.
@@ -88,19 +88,19 @@ TWILIO_TWIML_URL=your_twiml_url
    - The app generates a **safety score** based on AI analysis.
    - A heatmap is created using aggregated safety scores.
 
-6. **Crime Hotspot Detection**
+5. **Crime Hotspot Detection**
    - Uses real-time crime data to highlight **high-risk areas**.
    - Users receive alerts if they enter a crime hotspot.
 
-7. **Geofence Monitoring & Boundary Alerts**
+6. **Geofence Monitoring & Boundary Alerts**
    - Users can define custom geofence areas (such as home, school, or workplace).
    - If they move outside the safe zone unexpectedly, an alert is triggered.
 
-8. **Safer Route Suggestions**
+7. **Safer Route Suggestions**
    - The app calculates a secure path by analyzing real-time crime data.
    - It provides route recommendations to avoid high-risk zones.
 
-9.  **Multiple Emergency Contacts**
+8.  **Multiple Emergency Contacts**
    - Users can add multiple contacts to receive alerts during emergencies.
    - Contacts can be selected from the phonebook or entered manually.
 

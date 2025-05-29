@@ -46,6 +46,5 @@ flutter:
     - assets/womens_2.png
     - assets/logo.jpg
     - assets/logo_remov.jpg
-    - assets/cam.jpg
+    - assets/cam.jpeg
     - .env
-    - lib/uploads/
